@@ -38,4 +38,4 @@ Também planejo o **desenvolvimento de software**
 ## 🚀 Filosofia
 > _"Código não é apenas sobre resolver problemas. É sobre construir soluções que escalem, durem e gerem valor real."_
 ---
-⭐ Se você gosta do meu trabalho, considere dar uma estrela em um repositório
+⭐ Se você gostar do meu trabalho, considere dar uma estrela em um repositório
