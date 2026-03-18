@@ -20,7 +20,7 @@ Também planejo o **desenvolvimento de software**
   <a href="https://www.tiktok.com/@vitormendes.nvx">
     <img src="https://img.shields.io/badge/TikTok-@vitormendes.nvx-000000?style=for-the-badge&logo=tiktok" />
   </a>
-  <a href="https://www.youtube.com/@oreidosites">
+  <a href="https://www.youtube.com/@vitormendes">
     <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
